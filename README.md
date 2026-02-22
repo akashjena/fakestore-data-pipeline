@@ -6,7 +6,7 @@
 
 
 
-This project implements a simple medallion-style data pipeline using data from https://fakestoreapi.com/.
+This project implements a simple medallion-style data pipeline using data from [https://fakestoreapi.com/](https://fakestoreapi.com/products).
 
 
 
@@ -231,6 +231,7 @@ Pipeline Changes for ML:
 \* Delta Lake
 
 \* FakeStore API
+
 
 
 
